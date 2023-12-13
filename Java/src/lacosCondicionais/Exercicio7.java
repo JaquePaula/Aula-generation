@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio7 {
 
 	public static void main(String[] args) {
-		// lista 2 - exercicio 7 - Aula 9
+		// TODO Auto-generated method stub
 		
 		Scanner leia = new Scanner(System.in);
 		
