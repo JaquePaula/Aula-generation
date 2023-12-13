@@ -38,6 +38,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/gustavoprizon/Documents/Jaque/Generation/backup_github/Aula-generation/workspace-spring-tool-suite-4-4.20.1.RELEASE/Java"/>
+			<item value="/Users/gustavoprizon/Documents/Jaque/Generation/AulaGithub/Aula-generation/workspace-spring-tool-suite-4-4.20.1.RELEASE/Java"/>
 			<item value="/Users/gustavoprizon/Documents/JaqueGitHub/Aula-generation/Java"/>
 		</list>
 	</section>
